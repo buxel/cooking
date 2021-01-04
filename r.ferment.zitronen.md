@@ -2,7 +2,7 @@
 id: 607e919f-4c19-407c-af6c-3507c548dc0f
 title: Fermentierte Zitronen
 desc: ''
-updated: 1609336054349
+updated: 1609785199870
 created: 1609335482076
 ---
 
@@ -24,4 +24,4 @@ created: 1609335482076
 
 
 ## Verwendung
-Passt klein geschnitten überall, wo auch Zitronenschalen verwendet werden. Kann bei verfärbung püriert und als Paste verwendet werden.
+Passt klein geschnitten überall, wo auch Zitronenschalen verwendet werden. Kann bei Verfärbung püriert und als Paste verwendet werden.
